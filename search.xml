@@ -1,87 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>这两天的学习感受</title>
+    <title>IDM 6.40 Build 7 简体中文破解版</title>
     <url>/posts/2.html</url>
-    <content><![CDATA[<span id="more"></span>]]></content>
-  </entry>
-  <entry>
-    <title>2021年8月暑假14天计划</title>
-    <url>/posts/3.html</url>
-    <content><![CDATA[<p>说说自己在这14天的打算。</p>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="#简介"></a>#简介</h2><p>IDM是世界上一款极其流行和使用率最高的下载工具之一，最高支持32线程下载，让您的下载速度提高5倍。IDM的续传功能可以恢复因为断线、网络问题、计算机当机甚至无预警的停电导致下传到一半的软件。此程序具有动态档案分割、多重下载点技术，而且它会重复使用现有的联机，而不需再重新联机登入一遍。聪明的in-speed技术会动态地将所有设定应用到某种联机类型，以充分利用下载速度。</p>
 <span id="more"></span>
 
-<p>太久没写博客了，讲讲自己高中录取后的事吧~</p>
-<h2 id="录取后"><a href="#录取后" class="headerlink" title="录取后"></a>录取后</h2><p><strong>1. 回老家聊聊天</strong></p>
-<p>和刚考完高考不久的表姐聊了1~2小时，受益匪浅，顺便拿到了坤哥的《2000》。</p>
-<p><strong>2. 补课（语数理化）</strong></p>
-<blockquote>
-<p>语文：都是中文，但我看不懂。<br>数学：人教A版除了不等式基本都上完了（史 上 最 速 传 说）<br>物理：怎么物理天天考计算题啊。先做好心理准备吧……<br>化学：幸好必修一没有有机化学.JPG</p>
+<h2 id="破解说明（By-Qiuquan）"><a href="#破解说明（By-Qiuquan）" class="headerlink" title="#破解说明（By @Qiuquan）"></a>#破解说明（By @Qiuquan）</h2><blockquote>
+<p>2022.01.05：修复安装后提示“IDM无法找到文件2.这些文件是实现浏览器/系统集成所必须的。请重装IDM”的弹窗问题，并加入国外大神“Buffoon”的最新补丁，并打包成“老外补丁3”；</p>
 </blockquote>
-<p><strong>3. 买练习和教材</strong></p>
-<p>[练习]</p>
+<p>此版特点：</p>
 <ul>
-<li>五三高一听力</li>
-<li>五三数学、英语、物理必修1，化学必修1、必修2同步练习</li>
-<li>五三高考A版语文、数学、化学</li>
-<li>高中必刷题数理化必修1</li>
-<li>高考必刷题英语专项（完形、语法填空、阅读）</li>
-<li>星火英语阅读、完形、语法填空+改错、五合一合订本</li>
-<li>天利38套5年高考语文、英语真题分类</li>
-<li>重难点手册英语、物理、化学、地理、生物必修1，化学必修二+选修1</li>
-<li>教材帮数学人教A版必修1<del>真重</del></li>
-<li>解题达人2017~2021年高考真题详解语文、英语、化学，古诗文72篇+75篇+高考3500词+古代文化常识</li>
-<li><del>某不知名小作坊出品的</del>高考3500词衡水体字帖</li>
+<li>基于官方最新版本制作，删除部分非必要文件，减小体积；</li>
+<li>去除多余语言文件，只保留“英语”和“简体中文（设置为默认）”；</li>
+<li>去除关于对话框多余元素并微调窗口大小；</li>
+<li>隐藏顶部“告诉朋友”按钮，界面更清爽；</li>
+<li>去除顶部“注册”按钮（已破解，留着干嘛？）；</li>
+<li>去除顶部“帮助”菜单多余选项，只保留“关于”；</li>
+<li>去除主程序对“IDMGrHlp.exe”文件的校验；</li>
+<li>禁止程序自动检查更新，避免自动更新后导致程序破解失效；</li>
+<li>采用外挂的形式破解收费功能（感谢飘云阁大神“RoOKing ²º¹⁴ + menglv + small-q”）；</li>
+<li>可选添加四款美化工具栏图标；</li>
+<li>安装过程自动检测是否保留有先前版本配置文件并提供是否删除操作（默认保留配置）；</li>
+<li>优化程序选项设置，安装后无需过多设置即可体验高速下载；</li>
+<li>程序采用 Inno Setup 打包，如需要静默安装，添加参数即可。</li>
 </ul>
-<p>[教材·人教版]</p>
-<ul>
-<li>语文必修上册</li>
-<li>数学A版必修1+教师用书，B版必修1~4+教师用书，大纲版必修上册</li>
-<li>英语必修1+必修2</li>
-<li>政治必修1</li>
-<li>历史必修上册</li>
-<li>地理必修1</li>
-<li>生物必修1</li>
-<li>物理必修1</li>
-<li>化学必修1+必修2，新课标版选修1+选修2+选修6，大纲版第一册+第二册（II）+第三册</li>
-</ul>
-<p>[其他]</p>
-<ul>
-<li>高考试题分析英语分册+理综分册（真·宝藏，可惜不更新了）</li>
-<li>普通高中化学课程标准（2017年版2020年修订）+课标解读（有、东西）</li>
-<li>无机化学第四册+习题解答</li>
-</ul>
-<p><strong>4. 预习课本</strong></p>
-<p>语文政史地生课本没看，可以抬走了。<br>数学：基本上完了，<del>但是A版课本一言难尽</del>目前改用B版，正在remake<br>物理：必修1上了一半，剩余的一半尽量预习。<br>化学：必修1上完了（只是粗略的讲完了…），还要补笔记，写五三和错题<br>翻了下高考试卷，新高考的试卷结构基本上懂了。等级性考试卷子有是有，但鬼知道24年广西要怎么出…</p>
-<h2 id="下一步的打算"><a href="#下一步的打算" class="headerlink" title="下一步的打算"></a>下一步的打算</h2><p>还有14天，简单规划下自己的学习目标</p>
-<p><strong>1. 背书</strong></p>
-<ul>
-<li>古诗1篇/天</li>
-<li>3500单词2组/天</li>
-<li>文常1组/天</li>
-</ul>
-<p><strong>2. 预习</strong></p>
-<ul>
-<li>B版数学1个单元/天 <del>地 狱 绘 图</del> ，</li>
-<li>英语1个模块/天</li>
-<li>数理化五三2个课时/天（目前在必修1第三章第一节），必刷题同理；英生五三1个课时/天（<del>生地拉垮的我瑟瑟发抖</del>）</li>
-<li>生地1个课时/天</li>
-</ul>
-<p><strong>3. 听力</strong></p>
-<ul>
-<li>五三听力1篇/天</li>
-<li>阴间人BBC的6分钟英语，VOA的慢速英语</li>
-</ul>
-<p><strong>4. 其他</strong></p>
-<ul>
-<li>一数的网课，每天有空看1~2节（预习过课本后才看）</li>
-<li>Li+的网课，找必修1的看<del>有机劝退</del></li>
-</ul>
-<p><strong>5. 锻炼</strong></p>
-<p>12号骑自行车去补课，没看路，右腿膝盖摔了<del>痛的一批</del>。能跑步的话，两天1圈。不能的话，学习2h后休息15min。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="#软件截图"></a>#软件截图</h2><p><img src="https://cdn.jsdelivr.net/gh/piaoruoxue/Pic/idm.png" alt="软件截图"></p>
+<h2 id="下载链接"><a href="#下载链接" class="headerlink" title="#下载链接"></a>#下载链接</h2><p><a href="https://piaoruoxue-my.sharepoint.com/:f:/g/personal/admin_piaoruoxue_onmicrosoft_com/EoDi_reRZRFIrQ84-6DgqekBKbGS5Gx2Cgw2Fm-0ZV-hkA?e=pTo7ZS">https://piaoruoxue-my.sharepoint.com/:f:/g/personal/admin_piaoruoxue_onmicrosoft_com/EoDi_reRZRFIrQ84-6DgqekBKbGS5Gx2Cgw2Fm-0ZV-hkA?e=pTo7ZS</a></p>
 ]]></content>
+      <categories>
+        <category>软件</category>
+        <category>下载工具</category>
+      </categories>
       <tags>
-        <tag>随笔</tag>
+        <tag>下载工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PotPlayer 1.7.21595 增强版</title>
+    <url>/posts/3.html</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="#简介"></a>#简介</h2><p>POTPLAYER是一款小而强大的播放器，POTPLAYER的作者就是原来大名鼎鼎的KMPLAYER的作者，在KMPLAYER被收购后就另起炉灶开发了POTPLAYER，新版POTPLAYER完成了KMP无法实现的DXVA硬件解码以及多线程解码功能，让你使用POTPLAYER播放器可以更流畅观看高清视频。</p>
+<span id="more"></span>
+
+<h2 id="软件功能"><a href="#软件功能" class="headerlink" title="#软件功能"></a>#软件功能</h2><ul>
+<li>高品质播放</li>
+<li>支持所有类型的字幕</li>
+<li>内置 DXVA 视频编解码器 （H.264/AVC， VC-1， MPEG2）</li>
+<li>支持所有现代视频和音频格式、DVD</li>
+<li>支持电视频道播放</li>
+<li>创建屏幕截图和捕获视频</li>
+<li>支持皮肤、徽标、颜色主题</li>
+</ul>
+<h2 id="更新说明（By-lrepacks-net）"><a href="#更新说明（By-lrepacks-net）" class="headerlink" title="#更新说明（By @lrepacks.net）"></a>#更新说明（By @lrepacks.net）</h2><ol>
+<li>Совмещённые в одном дистрибутиве установка программы или распаковка портативной версии (x86/x64)<br> Выбор разрядности автоматический, но добавлена возможность принудительной установки x86 версии<br> на x64 систему (например, для использования DSP модулей из моих перепаковок Winamp или AIMP)<br> Распаковка портативной версии, может быть выполнена согласно разрядности системы или x86+x64</li>
+<li>Возможность установки дополнительных компонентов:<ul>
+<li>madVR видео рендерер (только для установки)</li>
+<li>Px-шейдеры (от 7sh3 или оригинальные)</li>
+<li>Темы оформления (скины)</li>
+<li>Библиотеки значков</li>
+<li>Логотипы</li>
+<li>Плейлисты</li>
+<li>TorrServeW (просмотр видео с торрент-трекеров)</li>
+<li>Ace StreamEngine (просмотр Торрент-ТВ)</li>
+</ul>
+</li>
+<li>Классический значок для PotPlayer (включая трей)</li>
+<li>Мультиязычный интерфейс (включая три варианта русификации: встроенный Kastaneda, SamLab, 7sh3)</li>
+<li>Опционный выбор настроек при установке:<ul>
+<li>Использовать аппаратные декодеры DXVA</li>
+<li>Добавить QuickSync/CUDA декодеры</li>
+<li>Просмотр видео с эффектом плавности движений</li>
+</ul>
+</li>
+<li>Возможность интеграции программы в контекстное меню Папок</li>
+<li>Возможность ассоциации плеера только с основными типами видео-файлов или<br> со всеми поддерживаемыми файлами (включая аудио и плейлисты)</li>
+<li>Возможность подхвата и автокопирования пользовательских файлов программы:<ul>
+<li>*.dll - библиотек значков</li>
+<li>*.dsf - скинов</li>
+<li><em>.jpg и</em>.png - логотипов</li>
+<li>*.dll - библиотек значков</li>
+<li><em>.txt и</em>.hlsl - Px-шейдеров</li>
+<li>*.avs - AviSynth фильтров</li>
+<li>*.dpl - плейлистов</li>
+<li>app.json - настройки TorrServeW</li>
+<li>playerconf.pickle - файла настроек Ace Stream Engine</li>
+<li>PotPlayerMini.ini - файла настроек портативной версии</li>
+<li>settings.reg - внесение настроек для устанавливаемой версии</li>
+</ul>
+</li>
+</ol>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="#软件截图"></a>#软件截图</h2><p><img src="https://cdn.jsdelivr.net/gh/piaoruoxue/Pic/potplayer2.png" alt="软件截图"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/piaoruoxue/Pic/potplayer3.png" alt="软件截图"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/piaoruoxue/Pic/potplayer4.png" alt="软件截图"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/piaoruoxue/Pic/potplayer.png" alt="软件截图"></p>
+<h2 id="下载链接"><a href="#下载链接" class="headerlink" title="#下载链接"></a>#下载链接</h2><p><a href="https://piaoruoxue-my.sharepoint.com/:f:/g/personal/admin_piaoruoxue_onmicrosoft_com/EkR8vodrSpFPuKue63b3sW0BHKRxuz8-7yG-vd8uNz-JyA?e=OgiNeK">https://piaoruoxue-my.sharepoint.com/:f:/g/personal/admin_piaoruoxue_onmicrosoft_com/EkR8vodrSpFPuKue63b3sW0BHKRxuz8-7yG-vd8uNz-JyA?e=OgiNeK</a></p>
+]]></content>
+      <categories>
+        <category>软件</category>
+        <category>视频播放器</category>
+      </categories>
+      <tags>
+        <tag>视频播放器</tag>
       </tags>
   </entry>
 </search>
