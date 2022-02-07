@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>IDM 6.40 Build 7 简体中文破解版</title>
-    <url>/posts/2.html</url>
+    <url>/posts/idm.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="#简介"></a>#简介</h2><p>IDM是世界上一款极其流行和使用率最高的下载工具之一，最高支持32线程下载，让您的下载速度提高5倍。IDM的续传功能可以恢复因为断线、网络问题、计算机当机甚至无预警的停电导致下传到一半的软件。此程序具有动态档案分割、多重下载点技术，而且它会重复使用现有的联机，而不需再重新联机登入一遍。聪明的in-speed技术会动态地将所有设定应用到某种联机类型，以充分利用下载速度。</p>
 <span id="more"></span>
 
@@ -37,8 +37,18 @@
       </tags>
   </entry>
   <entry>
+    <title>post</title>
+    <url>/posts/post.html</url>
+    <content><![CDATA[<span id="more"></span>]]></content>
+  </entry>
+  <entry>
+    <title>edit</title>
+    <url>/posts/edit.html</url>
+    <content><![CDATA[<span id="more"></span>]]></content>
+  </entry>
+  <entry>
     <title>PotPlayer 1.7.21595 增强版</title>
-    <url>/posts/3.html</url>
+    <url>/posts/potplayer.html</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="#简介"></a>#简介</h2><p>POTPLAYER是一款小而强大的播放器，POTPLAYER的作者就是原来大名鼎鼎的KMPLAYER的作者，在KMPLAYER被收购后就另起炉灶开发了POTPLAYER，新版POTPLAYER完成了KMP无法实现的DXVA硬件解码以及多线程解码功能，让你使用POTPLAYER播放器可以更流畅观看高清视频。</p>
 <span id="more"></span>
 
@@ -105,7 +115,7 @@
   </entry>
   <entry>
     <title>搜狗拼音输入法合集</title>
-    <url>/posts/3.html</url>
+    <url>/posts/sogoupinyininput.html</url>
     <content><![CDATA[<p>收录版本：</p>
 <ul>
 <li>6.7i大水牛优化版</li>
